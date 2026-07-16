@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "seed-admin-0001",
+      "username": "admin",
+      "passwordHash": "$2a$10$qgkSPNnzuH8op1TsE.0BBORRid.VzAkhygpzq/AslRx8/PX7/P0hK",
+      "role": "owner",
+      "avatarColor": "#5EEAD4",
+      "avatarUrl": null,
+      "nickname": null,
+      "staffTitle": "Founder",
+      "createdAt": "2026-07-15T00:00:00.000Z",
+      "banned": false,
+      "muted": false,
+      "muteExpires": null,
+      "lastIp": "127.0.0.1"
+    }
+  ],
+  "channels": [
+    {
+      "id": "chat",
+      "name": "chat",
+      "topic": "The main chatting room! Everyone is welcome.",
+      "createdAt": "2026-07-16T02:38:46.517Z",
+      "createdBy": "admin"
+    }
+  ],
+  "messages": [],
+  "bans": [],
+  "warnings": [],
+  "reports": [],
+  "events": [],
+  "settings": {
+    "theme": "signal-dark",
+    "siteName": "Signal Room",
+    "motd": "Welcome to Signal Room. Be kind, stay on frequency."
+  }
+}
