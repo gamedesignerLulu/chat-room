@@ -716,6 +716,6 @@ ioServer.on('connection', (socket) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`Signal Room running at http://localhost:${PORT}`);
+  console.log(`Signal Room running at https://chat-room-vx3s.onrender.com`);
   console.log(`Seed owner login -> username: admin  password: admin123  (change this!)`);
 });
